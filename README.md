@@ -16,3 +16,5 @@ To run the SIETS system -
 Open terminal and run server.py
 Open another terminal and run client.py
 To run without the voice command facilty run test.py
+
+![alt text](https://github.com/Warlord437/Surgical-Image-Segmentation/blob/main/Screenshot%202024-07-30%20123910.png)
